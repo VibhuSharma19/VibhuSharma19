@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">I'm VIBHU SHARMA</h1>
-<h3 align="center">A Lazy, Innovative, Social Problem-Solving, Robotic Engineer from INDIA</h3>
+<h3 align="center">A Lazy, Innovative, Social Problem-Solving, Robotic Engineer and Researcher from INDIA</h3>
 
 - 🔭 I’m currently working on **Musical Robotics using ROS2**
 
