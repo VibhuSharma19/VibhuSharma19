@@ -1,27 +1,75 @@
-## Hi there 👋
-<h1 align="center">I'm VIBHU SHARMA</h1>
-<h3 align="center">A Lazy, Innovative, Social Problem-Solving, Robotic Engineer and Researcher from INDIA</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Musical Robotics using ROS2**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B+I'm+VIBHU+SHARMA;Roboticist+%7C+Researcher+%7C+Engineer+from+INDIA;Open-Source+Enthusiast+%7C+Problem+Solver;Welcome+to+my+Tech+World!+%F0%9F%9A%80" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **ROS2, Gazebo**
+---
 
-- 👨‍💻 Some of my projects are available at [VibhuSharma19](https://github.com/VibhuSharma19)
+<h1 align="center">VIBHU SHARMA</h1>
+<h3 align="center">Lazy Innovator ⚡ | Robotics Engineer 🤖 | Researcher 📚 | Dreamer 🚀</h3>
 
-- 💬 Ask me about **ROS, Matlab, Solidworks, Robotics**
+</div>
 
-- 📫 How to reach me **1999vibhusharma@gmail.com**
+---
 
-- 📄 Know about my experiences [vibhu-sharma](www.linkedin.com/in/-vibhu-sharma)
+## 🔥 About Me
 
-- ⚡ Fun fact **I am a lazy Innovator, focused to automate daily problematic tasks**
+- 🔭 Currently building **Musical Robotics** projects using **ROS2**, **Gazebo** & **MoveIt2**  
+- 🌱 Constantly learning advanced **Motion Planning**, **Control Theory**, **Sensor Fusion**  
+- 💬 Ask me about: **Robotics | ROS 2 | SolidWorks | Matlab | Simulations**  
+- 📫 Reach me at: **1999vibhusharma@gmail.com**  
+- 📜 Know more: [LinkedIn](https://www.linkedin.com/in/-vibhu-sharma)  
+- ⚡ Fun Fact: _"I automate problems because I'm too lazy to solve them twice."_ 😎
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vibhu sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vibhu sharma" height="30" width="40" /></a>
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/-vibhu-sharma" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Vibhu%20Sharma-blue?logo=linkedin" alt="Linkedin" /></a>
+<a href="mailto:1999vibhusharma@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-1999vibhusharma%40gmail.com-red?logo=gmail" alt="Gmail" /></a>
+<a href="https://github.com/VibhuSharma19" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-VibhuSharma19-gray?logo=github" alt="Github" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" alt="solidworks" width="100" height="40"/> </a> <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhusharma19&show_icons=true&locale=en&layout=compact" alt="vibhusharma19" /></p> -->
+## 🛠️ Languages, Tools & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ros,python,linux,git,solidworks,matlab,html,opencv,tensorflow,pandas,scikit-learn" />
+</p>
+
+---
+<!--
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VibhuSharma19&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VibhuSharma19&theme=radical" width="450"/>
+</p>
+
+---
+-->
+
+## 🚀 Projects I'm Proud Of
+
+- 🎵 **Musical Robotics (ROS2, Gazebo)** - Using AI to play real musical instruments
+- 🦾 **Kinova JACO2 Simulation** - Full robotic arm simulation & task planning suite
+- 🧠 **Teleoperation Framework** - Real-time control pipelines for industrial manipulators
+- 🛰️ **Sensor Fusion Systems** - Vision + Depth Camera + AI perception stack
+
+---
+
+## 🌟 Personal Philosophy
+
+> “Don't automate tasks. Automate dreams.”  
+> “Lazy enough to build efficient solutions, crazy enough to make them real.”
+
+---
+
+<div align="center">
+
+![Built With ❤️](https://img.shields.io/badge/Built%20With-%F0%9F%A4%96%20Passion%20%7C%20Precision%20%7C%20Innovation-ff69b4?style=for-the-badge)
+
+</div>
+
+---
