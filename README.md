@@ -52,10 +52,9 @@
 
 ## 🚀 Projects I'm Proud Of
 
-- 🎵 **Musical Robotics (ROS2, Gazebo)** - Using AI to play real musical instruments
+- 🎵 **Musical Robotics (ROS2, Gazebo)** - Using robotic arms to play real musical instruments
 - 🦾 **Kinova JACO2 Simulation** - Full robotic arm simulation & task planning suite
-- 🧠 **Teleoperation Framework** - Real-time control pipelines for industrial manipulators
-- 🛰️ **Sensor Fusion Systems** - Vision + Depth Camera + AI perception stack
+- 🔍 **Full-Body Scanner** - A RPR robotic manipualtor for full-body scanning task 
 
 ---
 
